@@ -1,0 +1,8 @@
+- Learned Linux package management using apt.
+- Installed and managed system tools like git and curl.
+- Understood how Devops engineers automate tool installation.
+
+
+sudo apt update
+sudo apt install curl git -y
+
