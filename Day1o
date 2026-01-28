@@ -1,0 +1,13 @@
+## Day 10 – Linux Logs & Troubleshooting
+
+### Topics Covered:
+- Understanding system logs
+- Important log files
+- Monitoring logs using tail
+- Kernel logs using dmesg
+- Basic troubleshooting steps
+
+### Hands-on:
+- Viewed system logs
+- Monitored logs in real time
+- Practiced basic service troubleshooting
