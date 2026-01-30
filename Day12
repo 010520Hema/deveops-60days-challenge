@@ -1,0 +1,13 @@
+README.md
+## Day 12 – Docker Introduction
+
+### Topics Covered:
+- Introduction to Docker and containerization
+- Docker vs Virtual Machines
+- Docker images and containers
+- Running first Docker container
+
+### Hands-on:
+- Pulled nginx Docker image
+- Ran nginx container
+- Verified running container
