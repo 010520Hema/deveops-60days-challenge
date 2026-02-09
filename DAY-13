@@ -1,0 +1,11 @@
+## Day 13 – Dockerfile & Custom Image
+
+### Topics Covered:
+- Dockerfile basics
+- FROM, COPY, CMD instructions
+- Building custom Docker image
+
+### Hands-on:
+- Created Dockerfile
+- Built custom nginx image
+- Deployed container with custom HTML page
