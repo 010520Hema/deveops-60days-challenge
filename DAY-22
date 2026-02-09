@@ -1,0 +1,11 @@
+## Day 22 – Automated Deployment with Jenkins
+
+### Topics Covered:
+- Automated container deployment
+- Jenkins pipeline for build and deploy
+- CI/CD end-to-end workflow
+
+### Hands-on:
+- Extended Jenkins pipeline for deployment
+- Automated Docker container execution
+- Verified running application after deployment
