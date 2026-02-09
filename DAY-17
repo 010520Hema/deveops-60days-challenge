@@ -1,0 +1,11 @@
+## Day 17 – Jenkins & GitHub Integration
+
+### Topics Covered:
+- Continuous Integration (CI)
+- Jenkins and GitHub integration
+- Automated build trigger from GitHub
+
+### Hands-on:
+- Connected Jenkins job to GitHub repository
+- Pulled source code from GitHub
+- Ran build using Jenkins
