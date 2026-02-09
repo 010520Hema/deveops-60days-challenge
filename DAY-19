@@ -1,0 +1,15 @@
+## Day 19 – Jenkins and Docker Integration
+
+### Topics Covered:
+- Integrating Jenkins with Docker
+- Running Docker commands inside Jenkins pipelines
+- Understanding how CI/CD works with containers
+
+### Hands-on:
+- Installed Docker plugin in Jenkins
+- Created Jenkins pipeline job to run Docker commands
+- Executed Docker container through Jenkins
+- Verified Docker execution from Jenkins console output
+
+### Key Learning:
+Jenkins can automate Docker operations inside CI/CD pipelines, enabling container-based deployment workflows.
