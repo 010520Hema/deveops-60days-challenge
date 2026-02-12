@@ -1,0 +1,11 @@
+## Day 24 – Pipeline Error Handling
+
+### Topics Covered:
+- Jenkins pipeline error handling
+- Post-build actions
+- Pipeline stability improvements
+
+### Hands-on:
+- Added success and failure handling
+- Implemented automatic cleanup steps
+- Improved CI/CD pipeline reliability
