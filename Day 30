@@ -1,0 +1,11 @@
+## Day 30 – Full Cloud CI/CD Pipeline
+
+### Topics Covered:
+- Cloud CI/CD pipeline
+- Jenkins automation
+- Docker deployment on AWS
+
+### Hands-on:
+- Built full pipeline in EC2
+- Automated container deployment
+- Verified running application
