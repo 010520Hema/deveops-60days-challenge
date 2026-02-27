@@ -1,0 +1,31 @@
+# Day 40 – DevOps Interview Preparation (Phase 1)
+
+## 🎯 Focus:
+- Transition from learning mode to interview preparation mode
+- Strengthening fundamentals of DevOps concepts
+- Resume preparation and project explanation practice
+
+## 🧠 Topics Revised:
+- What is DevOps?
+- CI/CD concepts
+- Docker image vs container
+- Terraform workflow (init, plan, apply)
+- Jenkins pipeline basics
+- AWS core services (EC2, S3, IAM)
+
+## 🎤 Interview Preparation:
+- Prepared "Tell Me About Yourself" introduction
+- Practiced explaining:
+  - DevOps training (CIT Technology – 2023)
+  - 50-Day DevOps hands-on challenge
+  - Terraform remote backend with S3 & DynamoDB
+  - Jenkins CI/CD pipeline setup
+  - Docker containerization practice
+
+## 📌 Scenario Practice:
+- Handling Jenkins pipeline failure
+- Understanding Terraform state conflicts
+- Basic troubleshooting approach in production
+
+## 🚀 Outcome:
+Started structured interview preparation alongside continued technical learning.
