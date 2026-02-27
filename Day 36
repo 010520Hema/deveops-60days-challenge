@@ -1,0 +1,11 @@
+## Day 36 – Terraform Destroy & State
+
+### Topics Covered:
+- Terraform destroy
+- terraform.tfstate file
+- Importance of state management
+
+### Hands-on:
+- Destroyed EC2 using Terraform
+- Explored state file
+- Understood remote backend concept
