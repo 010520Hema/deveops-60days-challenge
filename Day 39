@@ -1,0 +1,13 @@
+## Day 39 – Terraform Variables & Structure
+
+### Topics Covered:
+- Terraform variables
+- terraform.tfvars
+- outputs
+- Project structure best practices
+
+### Hands-on:
+- Created variables.tf
+- Created terraform.tfvars
+- Updated main.tf
+- Added outputs
