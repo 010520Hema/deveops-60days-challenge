@@ -1,0 +1,11 @@
+## Day 38 – Terraform State Locking
+
+### Topics Covered:
+- DynamoDB for state locking
+- Production Terraform backend setup
+- Infrastructure safety mechanisms
+
+### Hands-on:
+- Created DynamoDB table
+- Enabled locking in Terraform backend
+- Reinitialized backend
