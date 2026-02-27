@@ -1,0 +1,11 @@
+## Day 29 – Jenkins Setup on AWS EC2
+
+### Topics Covered:
+- Jenkins installation in cloud
+- Java configuration
+- CI/CD server setup
+
+### Hands-on:
+- Installed Jenkins in EC2
+- Started Jenkins service
+- Accessed Jenkins via browser
